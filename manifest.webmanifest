@@ -1,0 +1,10 @@
+{
+  "name": "J.A.R.V.I.S. Personal Assistant",
+  "short_name": "JARVIS",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#020912",
+  "theme_color": "#020912",
+  "description": "Персональный голосовой ИИ-помощник"
+}
